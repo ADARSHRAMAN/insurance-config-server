@@ -1,2 +1,2 @@
 # insurance-config-server
-insurnace.provider.url=http://localhost:8080//insurnace-service/getUpdatePlans
+insurnace.provider.url=http://localhost:8080/insurnace-service/getUpdatePlans
